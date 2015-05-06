@@ -1,0 +1,5 @@
+Reduced Turn Around time
+Defect Leakage Check Through Manual Test Overlook can be controlled
+ROI for future releases
+Daily Build Feedback through CI setup safeguarding critical impacts
+Reuse for new states from what we built - Framework/Model/Reusable Common Keywords/Utility Functions
